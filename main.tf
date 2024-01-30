@@ -112,6 +112,7 @@ data aws_iam_policy_document policy {
       "ecs:CreateTaskSet",
       "ecs:UpdateServicePrimaryTaskSet",
       "ecs:DeleteTaskSet",
+      "ecs:TagResource",
       "cloudwatch:DescribeAlarms",
     ]
 
